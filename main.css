@@ -15,14 +15,15 @@ body {
 img.icon {
 	height:80px;
 	width:auto;
-	display:block;
+	display:inline;
 }
 
 #socialMedia
 {
     margin-left: auto;
     margin-right: auto;
-    width:auto;
+    width: 400px;
+    background-color: red;
 	
 }
 
