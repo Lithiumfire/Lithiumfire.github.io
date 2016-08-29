@@ -21,6 +21,13 @@
 	margin-right:auto;
 }
 
+#content
+{
+	background-color:green;
+	width=100px;
+	height=1000px;
+}
+
 #sideNav
 {
 	background-color:red;
