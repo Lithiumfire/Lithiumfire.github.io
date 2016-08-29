@@ -16,9 +16,13 @@ img.icon {
 	height:80px;
 	width:auto;
 	display:block;
-	
+}
+
+#socialMedia
+{
     margin-left: auto;
     margin-right: auto;
+    width:auto;
 	
 }
 
