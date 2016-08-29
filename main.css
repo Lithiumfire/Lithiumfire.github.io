@@ -1,5 +1,13 @@
 /* css for website */
 
+#sideNav
+{
+	background-color:gray;
+	height:600px;
+	width:100px;
+	margin-left:10px;
+}
+
 #banner
 {
 	background-color:red;
