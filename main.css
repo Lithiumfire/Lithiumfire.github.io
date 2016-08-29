@@ -13,16 +13,16 @@ body {
 }
 
 img.icon {
-	height:90px;
+	height:80px;
 	width:auto;
 	
 }
 #footer {
 	
-	left:0;
+	
 	margin: 0;
         padding: 0;
-	height: 100px;
+	height: 80px;
 	position: fixed;
 	background-color: green;
 	bottom: 0;
