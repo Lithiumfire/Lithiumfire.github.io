@@ -15,7 +15,8 @@ img.icon {
 }
 #footer {
 	
-	
+	margin: 0;
+        padding: 0;
 	height: 100px;
 	position: fixed;
 	background-color: green;
