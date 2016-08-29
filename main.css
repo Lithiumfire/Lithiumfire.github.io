@@ -23,7 +23,7 @@ img.icon {
     margin-left: auto;
     margin-right: auto;
     width: 400px;
-    background-color: red;
+  
 	
 }
 
@@ -34,7 +34,7 @@ img.icon {
         padding: 0;
 	height: 80px;
 	position: fixed;
-	background-color: green;
+	
 	bottom: 0;
 	width: 100%;
 }
