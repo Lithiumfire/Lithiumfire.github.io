@@ -11,14 +11,14 @@ body {
 img.icon {
 	height:90px;
 	width:auto;
-	align:middle;
+	
 }
 #footer {
 	
 	height:100px;
 	
 	position:fixed;
-	border-style:solid;
+	background-color:green;
 	bottom:0;
 	width=100%;
 }
