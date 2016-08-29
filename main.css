@@ -8,10 +8,17 @@ body {
     background-color: blue;
 }
 
+img.icon {
+	height:90px;
+	width:auto;
+	
+}
 #footer {
 	
+	height:100px;
+	
 	position:fixed;
-	border-style:solid;
+	background-color:green;
 	bottom:0;
 	width=100%;
 }
