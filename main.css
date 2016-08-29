@@ -7,3 +7,9 @@ p.box {
 body {
     background-color: blue;
 }
+
+#footer {
+	position:fixed;
+	bottom:0;
+	width=100%;
+}
