@@ -13,7 +13,7 @@ body {
 }
 
 img.icon {
-	height:auto;
+	height: 80px;
 	width: 80px;
 	display:inline;
 }
@@ -34,7 +34,7 @@ img.icon {
         padding: 0;
 	height: 80px;
 	position: fixed;
-	
+	background-color:gray;
 	bottom: 0;
 	width: 100%;
 }
