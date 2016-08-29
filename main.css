@@ -1,5 +1,6 @@
 /* css for website */
 p.box {
+	color="green";
 	border-style="solid";
 	border-width="thick";
 }
