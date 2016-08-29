@@ -17,6 +17,9 @@ img.icon {
 	width:auto;
 	display:inline;
 	
+    margin-left: auto;
+    margin-right: auto
+	
 }
 
 #socialMedia
