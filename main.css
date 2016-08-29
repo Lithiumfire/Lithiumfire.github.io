@@ -15,6 +15,7 @@ body {
 img.icon {
 	height:80px;
 	width:auto;
+	display:inline;
 	
 }
 #footer {
