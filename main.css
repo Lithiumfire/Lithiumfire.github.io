@@ -16,9 +16,9 @@ img.icon {
 #footer {
 	
 	
-	
+	height: 100px;
 	position: fixed;
 	background-color: green;
 	bottom: 0;
-	width= 100%;
+	width: 100%;
 }
