@@ -59,7 +59,8 @@
 
 body {
     background-color: black;
-    
+    background-image: url("../Images/wp1.jpg");
+    background-repeat: repeat-x;
     margin: 0;
     padding: 0;
 
