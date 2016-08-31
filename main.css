@@ -28,7 +28,7 @@
 	margin-right:auto;
 	width:1000px;
 	height:1000px;
-	float: right;
+	float: left;
 	padding:20px;
 	margin:20px;
 }
@@ -52,7 +52,7 @@
 	height:1000px;
 	width:200px;
 	background-color:blue;
-	float:right;
+	float:left;
 	top:200px;
 }
 
