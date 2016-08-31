@@ -28,7 +28,7 @@
 	margin-right:auto;
 	width:1000px;
 	height:1000px;
-	
+	float: right;
 	padding:20px;
 	margin:20px;
 }
