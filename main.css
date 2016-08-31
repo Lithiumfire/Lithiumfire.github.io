@@ -61,7 +61,8 @@
 body {
     background-color: black;
     background-image: url("../Images/wp3.jpg");
-    background-repeat: repeat-x;
+    background-attachment: fixed;
+   
     margin: 0;
     padding: 0;
 
