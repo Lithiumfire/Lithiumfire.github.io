@@ -23,7 +23,7 @@
 
 #content
 {
-	background-color:green;
+	border-style:solid;
 	margin-left:auto
 	margin-right:auto;
 	width:1000px;
@@ -35,7 +35,7 @@
 
 #sideNav
 {
-	background-color:red;
+	border-style:solid;
 	height:1000px;
 	width:200px;
 	margin-left:10px;
@@ -51,7 +51,7 @@
 
 	height:1000px;
 	width:200px;
-	background-color:blue;
+	border-style:solid;
 	float:right;
 	top:200px;
 }
