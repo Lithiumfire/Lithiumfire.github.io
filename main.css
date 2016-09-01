@@ -23,15 +23,15 @@
 
 #breadCrumbs
 {
-	border-style:solid;
+	
 	padding:0px;
-	margin:px
-	border-bottom-style:solid;
+	margin:0px;
+	border-bottom-style:ridge;
 }
 
 #content
 {
-	border-style:inset;
+	border-style:ridge;
 	margin-left:auto;
 	background-color:#e0abff;
 	margin-right:auto;
