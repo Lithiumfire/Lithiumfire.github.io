@@ -21,9 +21,17 @@
 	margin-right:auto;
 }
 
-#content
+#breadCrumbs
 {
 	border-style:solid;
+	padding:0px;
+	margin:px
+	border-bottom-style:solid;
+}
+
+#content
+{
+	border-style:inset;
 	margin-left:auto;
 	background-color:#e0abff;
 	margin-right:auto;
