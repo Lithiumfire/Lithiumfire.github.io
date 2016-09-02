@@ -23,14 +23,21 @@
 
 <style>
 
-
-    footer {
-      background-color: black;
-      
-      padding: 15px;
+/* Set gray background color and 100% height */
+    .sidenav {
+      background-color: #f1f1f1;
+      height: 100%;
     }
- 
     
+      /* Set height of the grid so .sidenav can be 100% (adjust if needed) */
+    .row.content {height: 1500px}
+
+    /* On small screens, set height to 'auto' for sidenav and grid */
+    @media screen and (max-width: 767px) {
+      .sidenav {
+        height: auto;
+        padding: 15px;
+      }    
   
 </style>
 
@@ -47,14 +54,14 @@
 
 
 <div class="container-fluid">    
-  <div class="row">
-    <div class="col-sm-4" style="background-color:lavender;">
+  <div class="row content">
+    <div class="col-sm-4 sidenav">
       stuff that spans 4 col
     </div>
-    <div class="col-sm-4">
+    <div class="col-sm-6">
       stuff that spans 4 cols
     </div>
-    <div class="col-sm-4" style="background-color:lavender;">
+    <div class="col-sm-2" style="background-color:lavender;">
       stuff that spans 4 col
     </div>
   </div>
