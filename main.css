@@ -89,7 +89,7 @@ img.icon {
     margin-left: auto;
     margin-right: auto;
     width: 150px;
-    display:inline;
+    
     
   
 	
@@ -110,4 +110,5 @@ img.icon {
 #copyBox{
 	left:0;
 	color:white;
+	float:left;
 }
