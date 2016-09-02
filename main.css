@@ -115,5 +115,6 @@ img.icon {
 
 #contactUs{
 	color:white;
-	float:left;
+	float:right;
+	right:0;
 }
