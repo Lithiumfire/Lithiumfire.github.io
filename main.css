@@ -105,3 +105,8 @@ img.icon {
 	bottom: 0;
 	width: 100%;
 }
+
+#copyBox{
+	left:0;
+	color:white;
+}
