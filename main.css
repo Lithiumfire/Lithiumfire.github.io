@@ -90,6 +90,7 @@ img.icon {
     margin-right: auto;
     width: 150px;
     float:none;
+    color:white;
     
   
 	
@@ -107,14 +108,5 @@ img.icon {
 	width: 100%;
 }
 
-#copyBox{
-	left:0;
-	color:white;
-	float:left;
-}
 
-#contactUs{
-	color:white;
-	
-	right:0;
-}
+
