@@ -44,7 +44,7 @@
 
 #sideNav
 {
-	border-style:solid;
+	border-style:inset;
 	background-color:#e0abff;
 	height:1000px;
 	width:200px;
